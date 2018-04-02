@@ -3,17 +3,17 @@
 [![Total Downloads](https://poser.pugx.org/firebase/php-jwt/downloads)](https://packagist.org/packages/firebase/php-jwt)
 [![License](https://poser.pugx.org/firebase/php-jwt/license)](https://packagist.org/packages/firebase/php-jwt)
 
-Finiz API Core for Laravel
+Core API for Laravel
 =======
 Core API for microservice,
 
 Installation
 ------------
 
-Use composer to manage your dependencies and download PHP-JWT:
+Use composer to manage your dependencies and download Core API:
 
 ```bash
-composer require finiz/api-core
+composer require lattesoft/api-core
 ```
 
 Example
@@ -44,4 +44,4 @@ and not single quotes `''` in order to properly interpret the escaped characters
 
 License
 -------
-[Finiz Co., Ltd.](https://finiz.in.th)
+[LATTESOFT (Thailand)](https://lattesoft.in.th)
