@@ -1,5 +1,7 @@
 {
   "name": "lattesoft/api-microservice-core",
+  "type": "library",
+  "keywords": ["api","microservice","core"],
   "description": "Api Core of microservice.",
   "homepage": "https://github.com/lattesoft/api-microservice-core",
   "source": {
