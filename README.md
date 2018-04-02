@@ -3,9 +3,9 @@
 [![Total Downloads](https://poser.pugx.org/firebase/php-jwt/downloads)](https://packagist.org/packages/firebase/php-jwt)
 [![License](https://poser.pugx.org/firebase/php-jwt/license)](https://packagist.org/packages/firebase/php-jwt)
 
-Core API for Laravel
+API Microservice Core for Laravel
 =======
-Core API for microservice,
+API Core for microservice,
 
 Installation
 ------------
