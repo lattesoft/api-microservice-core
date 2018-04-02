@@ -1,3 +1,5 @@
+[Latest Stable Version: 1.0.0](https://packagist.org/packages/firebase/php-jwt)
+
 API Microservice Core for Laravel
 =======
 API Core for microservice,
