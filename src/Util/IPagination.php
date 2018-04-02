@@ -6,7 +6,7 @@
  * Time: 4:36 PM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMocroserviceCore\Util;
 
 use Doctrine\ORM\Query;
 use LaravelDoctrine\ORM\Pagination\PaginatorAdapter;

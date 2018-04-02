@@ -6,19 +6,19 @@
  * Time: 6:21 PM
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 use App\Domain\Admin\AdminCompany;
 use App\Domain\Admin\AdminProfile;
 use App\Domain\Admin\AdminRole;
 use App\Domain\Company\Company;
-use Finiz\QDoctrine\QAdminCompany;
-use Finiz\QDoctrine\QAdminProfile;
-use Finiz\QDoctrine\QAdminRole;
-use Finiz\QDoctrine\QCompany;
-use Finiz\Response\IResponse;
-use Finiz\Util\IConstant;
-use Finiz\Util\Locale;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminCompany;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminProfile;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminRole;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QCompany;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\Util\IConstant;
+use Lattesoft\ApiMocroserviceCore\Util\Locale;
 use DateTime;
 use Illuminate\Http\Request;
 

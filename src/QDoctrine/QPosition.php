@@ -6,7 +6,7 @@
  * Time: 1:40 PM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Position\Position;
 

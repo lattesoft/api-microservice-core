@@ -6,11 +6,11 @@
  * Time: 9:20
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 
-use Finiz\QDoctrine\QClockTime;
-use Finiz\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QClockTime;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
 
 class ClockTimeService
 {

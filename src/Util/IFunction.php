@@ -6,7 +6,7 @@
  * Time: 12:44 AM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMocroserviceCore\Util;
 
 class IFunction
 {

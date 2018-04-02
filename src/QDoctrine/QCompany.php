@@ -6,10 +6,10 @@
  * Time: 10:24 PM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Company\Company;
-use Finiz\Util\IConstant;
+use Lattesoft\ApiMocroserviceCore\Util\IConstant;
 
 class QCompany
 {

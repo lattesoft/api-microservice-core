@@ -6,10 +6,10 @@
  * Time: 5:21 AM
  */
 
-namespace Finiz\Notification;
+namespace Lattesoft\ApiMocroserviceCore\Notification;
 
 use KS\Line\LineNotify;
-use Finiz\Configurations\FinizConstant;
+use Lattesoft\ApiMocroserviceCore\Configurations\FinizConstant;
 
 class LineNotification
 {

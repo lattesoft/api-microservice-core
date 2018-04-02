@@ -6,7 +6,7 @@
  * Time: 7:13 PM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Channel\FingerPrint;
 

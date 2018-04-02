@@ -6,10 +6,10 @@
  * Time: 4:56 AM
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
-use Finiz\QDoctrine\QBank;
-use Finiz\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QBank;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
 
 class MasterDataService
 {

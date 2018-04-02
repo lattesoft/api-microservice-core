@@ -6,10 +6,10 @@
  * Time: 4:33 AM
  */
 
-namespace Finiz\Response;
+namespace Lattesoft\ApiMocroserviceCore\Response;
 
 use Exception;
-use Finiz\Util\IPagination;
+use Lattesoft\ApiMocroserviceCore\Util\IPagination;
 
 class IResponse
 {

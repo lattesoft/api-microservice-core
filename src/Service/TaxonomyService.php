@@ -6,12 +6,12 @@
  * Time: 5:19
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 
-use Finiz\QDoctrine\QTaxonomy;
-use Finiz\Response\IResponse;
-use Finiz\Util\IPagination;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QTaxonomy;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\Util\IPagination;
 
 class TaxonomyService
 {

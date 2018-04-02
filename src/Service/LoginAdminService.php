@@ -6,19 +6,19 @@
  * Time: 4:19 AM
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 use App\Domain\Admin\AdminCompany;
 use App\Domain\Admin\AdminProfile;
 use App\Domain\Company\Company;
-use Finiz\QDoctrine\QAdminCompany;
-use Finiz\QDoctrine\QAdminProfile;
-use Finiz\QDoctrine\QCompany;
-use Finiz\Response\IResponse;
-use Finiz\Util\IConstant;
-use Finiz\Util\ICryptor;
-use Finiz\Util\IFunction;
-use Finiz\Util\Locale;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminCompany;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminProfile;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QCompany;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\Util\IConstant;
+use Lattesoft\ApiMocroserviceCore\Util\ICryptor;
+use Lattesoft\ApiMocroserviceCore\Util\IFunction;
+use Lattesoft\ApiMocroserviceCore\Util\Locale;
 use Firebase\JWT\JWT;
 
 class LoginAdminService

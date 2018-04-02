@@ -6,13 +6,13 @@
  * Time: 1:38 PM
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 use App\Domain\Position\Position;
-use Finiz\QDoctrine\QDepartment;
-use Finiz\QDoctrine\QPosition;
-use Finiz\QDoctrine\QEmployee;
-use Finiz\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QDepartment;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QPosition;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QEmployee;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
 
 class PositionService
 {

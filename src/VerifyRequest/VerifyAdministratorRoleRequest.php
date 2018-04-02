@@ -6,13 +6,13 @@
  * Time: 2:37 PM
  */
 
-namespace Finiz\VerifyRequest;
+namespace Lattesoft\ApiMocroserviceCore\VerifyRequest;
 
-use Finiz\Notification\LineNotification;
-use Finiz\Response\IResponse;
-use Finiz\Service\AdminProfileService;
-use Finiz\Util\IConstant;
-use Finiz\Util\IToken;
+use Lattesoft\ApiMocroserviceCore\Notification\LineNotification;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\Service\AdminProfileService;
+use Lattesoft\ApiMocroserviceCore\Util\IConstant;
+use Lattesoft\ApiMocroserviceCore\Util\IToken;
 use Illuminate\Http\Request;
 use Closure;
 use Exception;

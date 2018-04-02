@@ -6,7 +6,7 @@
  * Time: 3:14 AM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Master\Taxonomy;
 

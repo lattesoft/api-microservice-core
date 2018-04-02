@@ -6,12 +6,12 @@
  * Time: 3:15 PM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Admin\AdminProfile;
 use DateTime;
-use Finiz\Util\IConstant;
-use Finiz\Util\ICryptor;
+use Lattesoft\ApiMocroserviceCore\Util\IConstant;
+use Lattesoft\ApiMocroserviceCore\Util\ICryptor;
 use Illuminate\Http\Request;
 
 class QAdminProfile

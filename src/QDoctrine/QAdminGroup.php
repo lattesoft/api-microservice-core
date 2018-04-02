@@ -6,7 +6,7 @@
  * Time: 9:08 PM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Admin\AdminGroup;
 

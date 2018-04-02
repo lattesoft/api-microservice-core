@@ -6,7 +6,7 @@
  * Time: 3:21 PM
  */
 
-namespace Finiz\ThirdParty;
+namespace Lattesoft\ApiMocroserviceCore\ThirdParty;
 
 class FacePlusPlus
 {

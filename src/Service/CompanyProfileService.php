@@ -6,11 +6,11 @@
  * Time: 10:17 PM
  */
 
-namespace Finiz\Service;
+namespace Lattesoft\ApiMocroserviceCore\Service;
 
 use App\Domain\Company\Company;
-use Finiz\QDoctrine\QCompany;
-use Finiz\Response\IResponse;
+use Lattesoft\ApiMocroserviceCore\QDoctrine\QCompany;
+use Lattesoft\ApiMocroserviceCore\Response\IResponse;
 
 class CompanyProfileService
 {

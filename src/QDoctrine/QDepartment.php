@@ -6,7 +6,7 @@
  * Time: 3:27 AM
  */
 
-namespace Finiz\QDoctrine;
+namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
 
 use App\Domain\Department\Department;
 
