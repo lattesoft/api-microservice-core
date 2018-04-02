@@ -4,6 +4,8 @@
   "keywords": ["api","microservice","core"],
   "description": "Api Core for microservice.",
   "homepage": "https://github.com/lattesoft/api-microservice-core",
+  "minimum-stability": "stable",
+  "prefer-stable" : true,
   "source": {
     "url": "https://github.com/lattesoft/api-microservice-core.git",
     "type": "git",
