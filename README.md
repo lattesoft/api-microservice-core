@@ -10,7 +10,7 @@ Installation
 Use composer to manage your dependencies and download Core API:
 
 ```bash
-composer require lattesoft/api-core
+composer require lattesoft/api-microservice-core
 ```
 
 Example
