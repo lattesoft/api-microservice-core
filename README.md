@@ -7,7 +7,7 @@ API Core for microservice,
 Installation
 ------------
 
-Use composer to manage your dependencies and download Core API:
+Use composer to manage your dependencies and download API Microservice Core:
 
 ```bash
 composer require lattesoft/api-microservice-core
