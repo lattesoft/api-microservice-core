@@ -6,7 +6,7 @@
  * Time: 2:21 PM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 
 use Illuminate\Http\Request;

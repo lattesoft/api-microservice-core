@@ -6,10 +6,10 @@
  * Time: 4:33 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Response;
+namespace Lattesoft\ApiMicroserviceCore\Response;
 
 use Exception;
-use Lattesoft\ApiMocroserviceCore\Util\IPagination;
+use Lattesoft\ApiMicroserviceCore\Util\IPagination;
 
 class IResponse
 {

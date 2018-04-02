@@ -6,7 +6,7 @@
  * Time: 3:32 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 use App\Domain\Department\Department;
 use Finiz\QDoctrine\QAdminRole;

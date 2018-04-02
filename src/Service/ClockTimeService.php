@@ -6,11 +6,11 @@
  * Time: 9:20
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QClockTime;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QClockTime;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 
 class ClockTimeService
 {

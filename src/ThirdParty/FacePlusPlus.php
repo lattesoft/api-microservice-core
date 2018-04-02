@@ -6,7 +6,7 @@
  * Time: 3:21 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\ThirdParty;
+namespace Lattesoft\ApiMicroserviceCore\ThirdParty;
 
 class FacePlusPlus
 {

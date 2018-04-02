@@ -6,7 +6,7 @@
  * Time: 7:09 PM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 class IConstant
 {

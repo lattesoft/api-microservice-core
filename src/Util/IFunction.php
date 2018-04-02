@@ -6,7 +6,7 @@
  * Time: 12:44 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 class IFunction
 {

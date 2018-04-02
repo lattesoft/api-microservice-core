@@ -6,12 +6,12 @@
  * Time: 3:15 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Admin\AdminProfile;
 use DateTime;
-use Lattesoft\ApiMocroserviceCore\Util\IConstant;
-use Lattesoft\ApiMocroserviceCore\Util\ICryptor;
+use Lattesoft\ApiMicroserviceCore\Util\IConstant;
+use Lattesoft\ApiMicroserviceCore\Util\ICryptor;
 use Illuminate\Http\Request;
 
 class QAdminProfile

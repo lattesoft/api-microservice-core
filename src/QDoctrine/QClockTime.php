@@ -6,7 +6,7 @@
  * Time: 11:08 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Clock\ClockTime;
 use App\Domain\Employee\Employee;

@@ -6,7 +6,7 @@
  * Time: 3:15 PM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 
 use Firebase\JWT\JWT;

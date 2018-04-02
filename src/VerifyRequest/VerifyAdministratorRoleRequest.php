@@ -6,13 +6,13 @@
  * Time: 2:37 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\VerifyRequest;
+namespace Lattesoft\ApiMicroserviceCore\VerifyRequest;
 
-use Lattesoft\ApiMocroserviceCore\Notification\LineNotification;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
-use Lattesoft\ApiMocroserviceCore\Service\AdminProfileService;
-use Lattesoft\ApiMocroserviceCore\Util\IConstant;
-use Lattesoft\ApiMocroserviceCore\Util\IToken;
+use Lattesoft\ApiMicroserviceCore\Notification\LineNotification;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\Service\AdminProfileService;
+use Lattesoft\ApiMicroserviceCore\Util\IConstant;
+use Lattesoft\ApiMicroserviceCore\Util\IToken;
 use Illuminate\Http\Request;
 use Closure;
 use Exception;

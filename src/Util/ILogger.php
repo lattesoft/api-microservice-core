@@ -6,7 +6,7 @@
  * Time: 3:12 AM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 use Aws\CloudWatchLogs\CloudWatchLogsClient;
 use Exception;

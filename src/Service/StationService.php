@@ -6,10 +6,10 @@
  * Time: 7:53 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QFingerPrint;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QFingerPrint;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 
 class StationService
 {

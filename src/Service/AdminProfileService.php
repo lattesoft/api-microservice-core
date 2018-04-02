@@ -6,19 +6,19 @@
  * Time: 6:21 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 use App\Domain\Admin\AdminCompany;
 use App\Domain\Admin\AdminProfile;
 use App\Domain\Admin\AdminRole;
 use App\Domain\Company\Company;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminCompany;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminProfile;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QAdminRole;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QCompany;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
-use Lattesoft\ApiMocroserviceCore\Util\IConstant;
-use Lattesoft\ApiMocroserviceCore\Util\Locale;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QAdminCompany;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QAdminProfile;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QAdminRole;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QCompany;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\Util\IConstant;
+use Lattesoft\ApiMicroserviceCore\Util\Locale;
 use DateTime;
 use Illuminate\Http\Request;
 

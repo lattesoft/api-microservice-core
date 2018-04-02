@@ -6,13 +6,13 @@
  * Time: 1:38 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 use App\Domain\Position\Position;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QDepartment;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QPosition;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QEmployee;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QDepartment;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QPosition;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QEmployee;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 
 class PositionService
 {

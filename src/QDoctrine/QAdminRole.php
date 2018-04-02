@@ -6,11 +6,11 @@
  * Time: 8:37 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Admin\AdminRole;
 use App\Domain\Admin\AdminRoleDetail;
-use Lattesoft\ApiMocroserviceCore\Util\IPagination;
+use Lattesoft\ApiMicroserviceCore\Util\IPagination;
 
 class QAdminRole
 {

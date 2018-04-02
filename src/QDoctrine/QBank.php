@@ -6,7 +6,7 @@
  * Time: 4:57 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Master\Bank;
 

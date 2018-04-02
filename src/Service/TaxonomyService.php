@@ -6,12 +6,12 @@
  * Time: 5:19
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QTaxonomy;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
-use Lattesoft\ApiMocroserviceCore\Util\IPagination;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QTaxonomy;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\Util\IPagination;
 
 class TaxonomyService
 {

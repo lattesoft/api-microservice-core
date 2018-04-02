@@ -6,10 +6,10 @@
  * Time: 4:56 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QBank;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QBank;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 
 class MasterDataService
 {

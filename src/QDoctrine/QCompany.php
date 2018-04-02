@@ -6,10 +6,10 @@
  * Time: 10:24 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Company\Company;
-use Lattesoft\ApiMocroserviceCore\Util\IConstant;
+use Lattesoft\ApiMicroserviceCore\Util\IConstant;
 
 class QCompany
 {

@@ -6,10 +6,10 @@
  * Time: 12:02 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\VerifyRequest;
+namespace Lattesoft\ApiMicroserviceCore\VerifyRequest;
 
-use Lattesoft\ApiMocroserviceCore\Notification\LineNotification;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\Notification\LineNotification;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 use Illuminate\Http\Request;
 use Closure;
 use Exception;

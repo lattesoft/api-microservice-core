@@ -6,7 +6,7 @@
  * Time: 3:27 AM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\QDoctrine;
+namespace Lattesoft\ApiMicroserviceCore\QDoctrine;
 
 use App\Domain\Department\Department;
 

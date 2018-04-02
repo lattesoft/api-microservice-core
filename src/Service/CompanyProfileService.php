@@ -6,11 +6,11 @@
  * Time: 10:17 PM
  */
 
-namespace Lattesoft\ApiMocroserviceCore\Service;
+namespace Lattesoft\ApiMicroserviceCore\Service;
 
 use App\Domain\Company\Company;
-use Lattesoft\ApiMocroserviceCore\QDoctrine\QCompany;
-use Lattesoft\ApiMocroserviceCore\Response\IResponse;
+use Lattesoft\ApiMicroserviceCore\QDoctrine\QCompany;
+use Lattesoft\ApiMicroserviceCore\Response\IResponse;
 
 class CompanyProfileService
 {

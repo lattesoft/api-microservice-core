@@ -6,7 +6,7 @@
  * Time: 7:20 PM
  */
 
-namespace Finiz\Util;
+namespace Lattesoft\ApiMicroserviceCore\Util;
 
 class ICryptor
 {
